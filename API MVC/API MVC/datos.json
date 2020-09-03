@@ -1,0 +1,18 @@
+
+ 
+[
+    {
+        "User": "Diego",
+        "Pass": 123
+    },
+
+    {
+        "User2": "Jona",
+        "Pass": 123
+    },
+
+    {
+        "User3": "Mila",
+        "Pass": 123
+    }
+]

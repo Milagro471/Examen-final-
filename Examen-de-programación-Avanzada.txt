@@ -1,0 +1,14 @@
+
+Examen de programación avanzada
+
+Integrantes
+Milagro Muñoz Moya
+Jonathan Gutiérrez Aguero
+Armando Venegas Gustavino
+
+Buenas profe
+En la carpeta hay dos opciones  una con el modelo MVC y el otro con las apis aparte 
+Gracias 
+
+link del proyecto
+https://github.com/jonartug/Examen-de-progra-avanzada/blob/master/README.md
